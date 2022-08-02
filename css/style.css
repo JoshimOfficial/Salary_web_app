@@ -1,0 +1,31 @@
+.header {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+.container {
+    text-align: center;
+}
+
+.adding_menu {
+    text-align: start;
+    width: 650px;
+    margin: auto;
+    position: relative;
+    top: 50px;    
+    display: flex;
+    justify-content: space-around;
+}
+
+button.add {
+    height: fit-content;    
+    position: relative;
+    top: 25px;
+}
+
+.modal_btn {
+    display: none!important;
+}
+
+canvas#myChart {
+    margin-top: 100px;
+}
